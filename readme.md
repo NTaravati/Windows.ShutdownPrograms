@@ -1,5 +1,5 @@
 ## Terminate programs on Windows shutdown
-Met dit script sluit Windows standaard de volgende applicaties zonder te vrragne tijdens het afsluiten van je computer. Hiermee voorkom je dat je gevraagd wordt of je er zeker van bent dat de applicaties afgesloten wordeen. Het gaat om de volgende apps:
+Met dit script sluit Windows standaard de volgende applicaties zonder te vragne tijdens het afsluiten van je computer. Hiermee voorkom je dat je gevraagd wordt of je er zeker van bent dat de applicaties afgesloten worden. Het gaat om de volgende apps:
 > Kladblok <br/>
 > Google Chrome <br/>
 > Google File & Backup sync
